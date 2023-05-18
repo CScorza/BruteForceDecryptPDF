@@ -18,16 +18,18 @@ pip install pycryptodome
 cd BruteForceDecryptPDF
 ```
 **📂 All'interno della cartella:**
-**- PDF d'esempio**
-**- Dizionario d'esempio**
-**- Codice python - BFDecryptPDF.py**
-
+```
+- PDF d'esempio
+- Dizionario d'esempio
+- Codice python - BFDecryptPDF.py
+```
 **🔄 All'interno della cartella cambiare:**
-**- Il Pdf (cambiare il nome del file "relazione.pdf")**
-**- Dizionario.txt (cambiare il nome del file del dizionario "password.txt")**
-
+```
+- Il Pdf (cambiare il nome del file "relazione.pdf")
+- Dizionario.txt (cambiare il nome del file del dizionario "password.txt")
+```
 **Avviare Tool**
 
 ```
-python bf.py
+python BFDecryptPDF.py
 ```
